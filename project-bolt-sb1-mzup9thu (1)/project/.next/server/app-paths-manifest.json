@@ -1,3 +1,8 @@
 {
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/learn/page": "app/learn/page.js",
+  "/biology/page": "app/biology/page.js",
+  "/learn/[level]/page": "app/learn/[level]/page.js",
+  "/learn/[level]/[board]/page": "app/learn/[level]/[board]/page.js",
+  "/learn/[level]/[board]/[subject]/page": "app/learn/[level]/[board]/[subject]/page.js"
 }
