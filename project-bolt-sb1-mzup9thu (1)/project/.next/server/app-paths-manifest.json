@@ -4,5 +4,6 @@
   "/biology/page": "app/biology/page.js",
   "/learn/[level]/page": "app/learn/[level]/page.js",
   "/learn/[level]/[board]/page": "app/learn/[level]/[board]/page.js",
+  "/biology/[chapterId]/[topicId]/page": "app/biology/[chapterId]/[topicId]/page.js",
   "/learn/[level]/[board]/[subject]/page": "app/learn/[level]/[board]/[subject]/page.js"
 }
